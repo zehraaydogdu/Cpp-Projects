@@ -16,10 +16,10 @@ The repository is organized into topical folders. Each folder typically includes
 ```
 ├── 01-Introduction-to-C++
 │   ├── hello_world.cpp
-│   └── notes.md
+│   └── notes_01.ipynb
 ├── 02-Operators
 │   ├── arithmetic_operators.cpp
-│   └── logic_notes.txt
+│   └── notes=02.ipynb
 └── ...
 ```
 
